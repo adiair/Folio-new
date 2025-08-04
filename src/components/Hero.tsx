@@ -26,7 +26,7 @@ const Socials = [
     url: "mailto:adi310kokashe@gmail.com",
     icon: MdMailOutline,
   },
-  {
+  { 
     name: "Resume",
     url: "https://drive.google.com/file/d/1zImOgASC-GZbjyS3HQ1Rfa1PuFzlh4ow/view",
     icon: TbFileCv,
